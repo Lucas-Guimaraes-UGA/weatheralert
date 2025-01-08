@@ -1,1 +1,3 @@
-hello https://github.com/
+create alert.html
+
+rename alert to hide it
